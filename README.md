@@ -27,4 +27,4 @@ and so on.
 
 ## Finale
 
-Tbd.
+Integrate into your platform (native, react-native, etc).
